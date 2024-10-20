@@ -62,6 +62,6 @@ The project includes a web application built with Flask to allow users to upload
 
 Rasha Alkhatib, Maryam Irfan, Kevin Jayne, Kyle Sellers, Ivan Vargas, and Donavan Watson.
 
-## Dataset
+## Sources
 
 https://archive.ics.uci.edu/dataset/456/multimodal+damage+identification+for+humanitarian+computing
