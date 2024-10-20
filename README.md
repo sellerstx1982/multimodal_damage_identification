@@ -60,12 +60,7 @@ The project includes a web application built with Flask to allow users to upload
 
 ## Project Members
 
-Rasha Alkhatib
-Maryam Irfan
-Kevin Jayne
-Kyle Sellers
-Ivan Vargas
-Donavan Watson
+Rasha Alkhatib, Maryam Irfan, Kevin Jayne, Kyle Sellers, Ivan Vargas, and Donavan Watson.
 
 ## Dataset
 
