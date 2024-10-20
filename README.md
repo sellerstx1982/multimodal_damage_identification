@@ -57,3 +57,16 @@ The project includes a web application built with Flask to allow users to upload
 
   - Web App: Allows users to upload images, which are processed by the models to produce a damage report.
   - Heroku Deployment: The application is ready for deployment on Heroku, ensuring accessibility to relief organizations worldwide.
+
+## Project Members
+
+Rasha Alkhatib
+Maryam Irfan
+Kevin Jayne
+Kyle Sellers
+Ivan Vargas
+Donavan Watson
+
+## Dataset
+
+https://archive.ics.uci.edu/dataset/456/multimodal+damage+identification+for+humanitarian+computing
