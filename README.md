@@ -55,6 +55,7 @@ With our solution, relief organizations will experience:
 The models developed in this project have been evaluated using test sets to ensure accuracy and reliability:
 
   - CNN Model:
+  - InceptionV3:
   - LSTM Model:
   - GPT-2 Model:
 
