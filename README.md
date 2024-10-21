@@ -1,4 +1,4 @@
-# Multimodal_Damage_Identification
+# Multimodal Damage Identification
 
 ## Overview
 The objective of this project is to develop a machine learning solution to identify and categorize disaster damage based on social media data. The project leverages both images and text (captions) related to disasters to automatically classify damage types and generate informative disaster reports.
