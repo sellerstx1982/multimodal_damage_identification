@@ -18,6 +18,12 @@ Relief organizations and emergency responders often face challenges in quickly a
 
 ## Dataset Structure
 Our dataset consists of captioned social media images, which are categorized into six types of damage:
+  - Damaged Infrastructure
+  - Damaged Nature
+  - Fires
+  - Flood
+  - Human Damage
+  - Non Damage
 
 ## Research & Analysis
 Our team conducted thorough analysis and preprocessing of the social media dataset, which included cleaning the text and resizing and normalizing the images. Key tools applied in this process include:
