@@ -4,4 +4,4 @@ This is a binary image classification model that identifies whether an image dep
 The accuracy of this model is 85.5%. This correctly classifies most images, but there is room for improvement. Some ways this can be improved is to adjust the learning rate or increasing/decreasing the batch size, or training more dense layers.
 
 This code also randomly selects an image from the test set and uses the trained model to predict its class (either 'damage' or 'non-damage'). It then displays the image with both the actual label and the predicted label for comparison.
-
+ 
